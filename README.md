@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isha Hosur</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **Online website for Meditation and Self-help, Online website for Pet Services Systems**
+- 🔭 I’m currently working on **Online website for Meditation and Self-help, Online website for Pet Services Systems, Online Car Price Predictor Website**
 
-- 🌱 I’m currently learning **MERN, MEAN, Bootstrap, Java, Python, Databases**
+- 🌱 I’m currently learning **MERN, MEAN, Bootstrap, Java, Python, Databases, PHP, JavaScript**
 
 - 📫 How to reach me **ishahosur2020@gmail.com**
 
